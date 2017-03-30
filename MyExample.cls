@@ -35,13 +35,8 @@ public class MyExample {
     }
 
     public String print() {
-<<<<<<< HEAD
         System.debug('My name is ' + this.name + ' and am this many years old: ' + this.age);
         System.debug('I have the following hobbies: ' + hobbies.join(', '));
-=======
-        System.debug('My name is ' + this.name);
-        System.debug('I am ' + this.age + ' years old');
->>>>>>> workingBranch
     }
 
 }
